@@ -3,7 +3,7 @@
 
 ![Demo App](./preview/home-screen.png 'Preview')
 
-## This is how the my portfolio looks like:
+## This is how my portfolio looks like:
 
 <table>
   <tr>
