@@ -38,7 +38,7 @@ app.use(cors({
 
 // Root route for health check
 app.get('/', (req, res) => {
-  res.send('Streamify API is running...');
+  res.send('Portfolio API is running...');
 });
 
 // Handle favicon requests
